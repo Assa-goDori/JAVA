@@ -30,7 +30,7 @@ public class Test2 {
 
 	static void printString(Function<Person, String> f) {
 		for(Person s : arr)
-			System.out.print(f.apply(s));
+			System.out.print(f.apply(s)+",");
 		System.out.println();
 	}
 
