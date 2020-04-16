@@ -8,7 +8,7 @@ class Car {
 		number = n;
 	}
 	Car(String c) {
-		color = c;
+		color = c; 
 		number = 1;
 	}
 	Car(int n) {
