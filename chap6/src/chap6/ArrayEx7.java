@@ -17,7 +17,7 @@ public class ArrayEx7 {
 			for(int j = 0; j<arr[i].length; j++) {
 				System.out.print("arr[" + i + "][" + j + "] = " + arr[i][j] + "\t");
 			}
-			System.out.println();
+			System.out.println(); 
 		}
 		System.out.println();
 		// 1차원 배열 객체 변경하기
