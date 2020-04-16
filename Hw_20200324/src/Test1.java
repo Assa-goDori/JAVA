@@ -43,7 +43,7 @@ public class Test1 {
   Scanner scan2 = new Scanner(inputs).useDelimiter(" ");
   while(scan2.hasNextInt()) {
    int input = scan2.nextInt();
-   if(input%2==1) {
+   if(input%2==1) { 
      list.add(input);
      sum += input;
     }
