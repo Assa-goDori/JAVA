@@ -9,7 +9,7 @@ package chap11;
 public class ExceptionEx5 {
 	public static void main(String[] args) {
 		try {
-			first();
+			first(); 
 		} catch(Exception e) {
 			System.out.println("숫자만 가능합니다.");
 			e.printStackTrace();
