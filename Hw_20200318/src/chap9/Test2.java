@@ -5,7 +5,7 @@ class Outer {
 		int iv = 100;
 	}
 }
-
+ 
 class Outer2 {
 	static class Inner {
 		int iv = 200;
