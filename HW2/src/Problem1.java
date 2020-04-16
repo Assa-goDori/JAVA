@@ -7,7 +7,7 @@ class OutOfNumException extends Exception {
 	public String toString() {
 		return super.getMessage();
 	}
-}
+} 
 
 public class Problem1 {
 	public static void main(String[] args) {
