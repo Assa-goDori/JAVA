@@ -13,7 +13,7 @@ class Coin {
 			System.out.println("¾Õ¸é");
 			sno++;
 		} else {
-			System.out.println("µÞ¸é");
+			System.out.println("µÞ¸é"); 
 		}
 	}
 }
