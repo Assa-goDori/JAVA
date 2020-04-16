@@ -9,7 +9,7 @@ class Thread1 extends Thread {	//Thread 클래스
 	Thread1(String name) {
 		super(name);
 	}
-
+ 
 	public void run() {		// 스케쥴러에 의해 선택된 스레드의 Running 상태
 		for (int i = 0; i < 5; i++) {
 			System.out.println(i + "=" + getName());	// getName() : 스레드 이름
