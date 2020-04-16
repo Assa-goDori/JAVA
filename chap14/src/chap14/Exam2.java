@@ -11,7 +11,7 @@ import java.util.Set;
  * 4. 구동클래스에 맞도록 생성자 구현.
  */
 
-class Student {
+class Student { 
 	String studno;
 	String name;
 	String major;
