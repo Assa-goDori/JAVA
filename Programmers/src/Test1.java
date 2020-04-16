@@ -20,7 +20,7 @@ class Solution {
         	}
     	}
     	return answer;
-    }
+    } 
 }
 
 public class Test1 {
