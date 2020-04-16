@@ -12,7 +12,7 @@ public class Client {
 		PrintWriter out = null;
 		BufferedReader br = null;
 		String input;
-		try {
+		try { 
 			String output;
 			BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
 			client = new Socket(ip, port);
