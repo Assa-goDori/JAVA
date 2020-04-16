@@ -8,11 +8,11 @@ import java.util.Scanner;
  * 추가 : 입력된 숫자가 1~10 사이의 수가 아닌경우 InputMissMatchExcetpion
  *      1부터 10까지의 숫자만 입력하세요 내용 출력
  *      이후 다시 입력 받기
- */
+ */ 
 
 class NumberMissMatchException extends Exception {
 	NumberMissMatchException(String msg) {
-		super(msg);
+		super(msg); 
 	}
 }
 
