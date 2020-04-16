@@ -6,7 +6,7 @@ class Card {
 		this("Spade", 1);
 	}
 	Card(String kind, int num) {
-		this.kind = kind;
+		this.kind = kind; 
 		this.num = num;
 	}
 	@Override
