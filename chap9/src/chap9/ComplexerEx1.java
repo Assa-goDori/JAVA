@@ -26,7 +26,7 @@ interface Printerable {
 	int INK = 100;	// »ó¼ö  = (public static final) int INK = 100;
 	void print();	// (public abstract) void print();
 }
-interface Scannerable {
+interface Scannerable { 
 	void scan();
 }
 interface Faxable {
