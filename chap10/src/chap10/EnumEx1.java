@@ -2,7 +2,7 @@ package chap10;
 /*
  * 열거형 enum 예제
  */
-public class EnumEx1 {
+public class EnumEx1 { 
 	public enum Car {
 		AVANTE, SONATA, GRANDUER
 	}
