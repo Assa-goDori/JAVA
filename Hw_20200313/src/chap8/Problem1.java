@@ -21,7 +21,7 @@ class FormalEmployee extends Employee {
 	int salary;
 	
 	FormalEmployee(String name, String address, String dept, String empNo, int salary, String position) {
-		super("정규직", name, address, dept);
+		super("정규직", name, address, dept); 
 		this.empNo = empNo;
 		this.salary = salary;
 		this.position = position;
