@@ -14,6 +14,6 @@ public class Problem1 {
 				else						System.out.print(" ");
 			}
 		System.out.println();
-		}
+		} 
 	}
 }
