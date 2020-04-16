@@ -10,7 +10,7 @@ package chap3;
  */
 public class VarEx2 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		byte b1 = 10; // = 대입연산자, b1변수에 10 값을 대입.
 		byte b2 = 20;
 		long l1 = 100, l2 = 200;
