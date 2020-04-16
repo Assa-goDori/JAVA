@@ -13,7 +13,7 @@ public class IntStreamEx1 {
 		IntStream is1 = Arrays.stream(arr);			//배열을 Stream화
 		is1.forEach(s->System.out.print(s + "\t"));
 		System.out.println("\nIntStream.of 메서드를 이용하여 IntStream 생성하기");
-		IntStream is2 = IntStream.of(arr);
+		IntStream is2 = IntStream.of(arr); 
 		is2.forEach(s->System.out.print(s + "\t"));	//배열을 Stream화
 		System.out.println("\nIntStream.range(1,10) 메서드를 이용하여 IntStream 생성하기");
 		IntStream is3 = IntStream.range(1,10);		//1부터 9까지의 숫자를 Stream화
