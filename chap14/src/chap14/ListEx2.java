@@ -1,7 +1,7 @@
 package chap14;
 
 import java.util.Vector;
-
+ 
 /*
  * Vector 예제 : Collection 프레임워크 이전 클래스
  *             List 인터페이스의 구현 클래스
