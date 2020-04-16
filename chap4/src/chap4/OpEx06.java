@@ -10,7 +10,7 @@ public class OpEx06 {
 		float f = (float)3 / 2;
 		long l= (long)3000 * 3000 * 3000;
 		float f2 = 0.1f;
-		double d = 0.1f;
+		double d = 0.1f; 
 		boolean result = d==f2;
 		
 		System.out.println("c="+c);
