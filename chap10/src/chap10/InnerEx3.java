@@ -5,7 +5,7 @@ package chap10;
  */
 class Outer3 {
 	int iv = 10;
-	int iv2 = 20;
+	int iv2 = 20; 
 	class InstanceInner {
 		int iv = 100;
 		void method1() {
