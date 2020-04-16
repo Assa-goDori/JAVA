@@ -10,7 +10,7 @@ public class Test2 {
 	public static void main(String[] args) {
 		Animal animal = new Animal();
 		animal.name = "원숭이";
-		animal.age = 20;
+		animal.age = 20; 
 		System.out.println("이름(name) : " + animal.name + "\n나이(age) : " + animal.age + "\n" + animal.eat());
 	}
 }
