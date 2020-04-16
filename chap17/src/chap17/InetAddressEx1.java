@@ -11,7 +11,7 @@ import java.net.UnknownHostException;
  *   getAllByName("도메인이름")
  *   getByAddress(byte[])
  *   getLocalHost()
- */
+ */ 
 public class InetAddressEx1 {
 	public static void main(String[] args) throws UnknownHostException {
 		InetAddress ip = InetAddress.getByName("www.goodee.co.kr");
