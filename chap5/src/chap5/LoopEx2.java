@@ -14,7 +14,7 @@ public class LoopEx2 {
 		i=1;
 		sum=0;
 		while(i<=10) {
-			sum += i;
+			sum += i; 
 			i++;
 		}
 		System.out.println("[while구문]1~10까지의 합은 " + sum);
