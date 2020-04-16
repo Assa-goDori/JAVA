@@ -10,7 +10,7 @@ public class LambdaEx2 {
 		Runnable r = () -> {	//이름 없는 지역 내부클래스
 			int sum = 0;	// 지역내부 클래스에서 지역변수에 접근하고자 할 때는 상수가 되어야 한다.
 			for(int i = 0; i<=100; i++) {
-				sum += i;
+				sum += i; 
 			}
 			System.out.println("1부터 100까지의 합 : " + sum);
 		};
