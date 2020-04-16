@@ -21,7 +21,7 @@ class Phone {
 	}
 }
 //구동클래스 : main 메서드를 가지고 있는 클래스
-public class PhoneEx1 {
+public class PhoneEx1 { 
 
 	public static void main(String[] args) {
 		Phone p1 = new Phone();		//객체화, 인스턴스화
