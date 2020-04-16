@@ -11,6 +11,6 @@ public class test {
 		double var6 = 1.2;		// 정상
 		float var7 = 42e1f; 	// 42x10^1 = 420 (e = 10.0) / 출력값 : 420.0 
 		float var8 = 0x0123; 	// 16진법 256 + 32 + 3 / 출력값 : 291.0
-		float var9 = '1'; 		// char => float 형변환 / ASCII코드 49 = 1 / 출력값 : 49.0
+		float var9 = '1'; 		// char => float 형변환 / ASCII코드 49 = 1 / 출력값 : 49.0 
 	}
 }
