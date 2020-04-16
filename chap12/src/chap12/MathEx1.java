@@ -13,7 +13,7 @@ public class MathEx1 {
 		//floor() : 현재 값 보다 작은 근사 정수
 		System.out.println("Math.floor(5.4) = " + Math.floor(5.4));
 		System.out.println("Math.floor(-5.4) = " + Math.floor(-5.4));
-		//rint() : 현재 값이랑 가장 가까운 근사 정수
+		//rint() : 현재 값이랑 가장 가까운 근사 정수 
 		System.out.println("Math.rint(5.4) = " + Math.rint(5.4));
 		System.out.println("Math.rint(-5.4) = " + Math.rint(-5.4));
 		//min() : 최소값
