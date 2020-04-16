@@ -18,7 +18,7 @@ class Student {
 	}
 	
 	float getAverage() {
-		return getTotal()/3;
+		return getTotal()/3; 
 	}
 	void info() {
 		System.out.println("학번 : " + num + "\n이름 : " + name +
