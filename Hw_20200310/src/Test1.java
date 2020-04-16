@@ -13,6 +13,6 @@ public class Test1 {
 		
 		if(ox == true && num==1)	System.out.println("1은 소수가 아닙니다");
 		else if (ox ==true)			System.out.println(num + "은 소수입니다.");
-		else						System.out.println(num + "은 소수가 아닙니다.");
+		else						System.out.println(num + "은 소수가 아닙니다."); 
 	}
 }
