@@ -5,7 +5,7 @@ package chap12;
 class Equal {
 	int value;
 	Equal(int value) {
-		this.value = value;
+		this.value = value; 
 	}
 }
 public class EqualsEx1 {
