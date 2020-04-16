@@ -5,6 +5,6 @@ public class Test1 {
 		String fileName = fullPath.substring(path.length()+1, fullPath.length());
 		System.out.println("fullPath : " + fullPath);
 		System.out.println("path : " + path);
-		System.out.println("fileName : " + fileName);
+		System.out.println("fileName : " + fileName); 
 	}
 }
